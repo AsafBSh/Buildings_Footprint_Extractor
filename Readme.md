@@ -39,6 +39,22 @@ pip install geopandas pandas shapely rtree tqdm
 
 text
 
+
+
+## World Coverage
+
+* Google Coverage of the world is as described in the following image. in the official research website, you can download the relevant chunks of data.
+
+`![Google](/Media/G_world.png)`
+
+
+
+* Microsoft Coverage of the world is as described in the next image. Some of those areas are including heights. for further information, please check the official Github page of the project.
+
+`![Microsoft](/Media/M_world.png)`
+
+
+
 ### Running the Script
 
 The script is executed from the command line with various options.
@@ -130,6 +146,9 @@ text
    ```
    python BuildingsExtractor.py -g -i-g 145_chunks --fromdb -o-g output.geojson -tl-g 31.199039,27.621791 -br-g 31.165775,27.675779 -ef-g
    ```
+* Example of results:
+
+`![Example](/Media/Ex.png)`
 
 ### File Structure (Google Mode)
 
