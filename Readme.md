@@ -185,5 +185,3 @@ Key changes and improvements from the previous version:
     Added Important Note: Added all the notes and missing pieces from previous versions
     
     Simplified Argument Names: The new argument names are implemented
-
-This Markdown file should now provide a much clearer, more accurate, and user-friendly documentation for your combined script. Remember to replace [Insert License Information Here, e.g., MIT License] with your desired license.
